@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Rafael%20Dev&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=rafadevgg&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </div>
 
 ## Olá! Eu sou Rafael 👋
